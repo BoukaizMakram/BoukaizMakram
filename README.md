@@ -2,11 +2,9 @@
 
 
 
-- 🔭 I’m currently strudying at **1337 (42 net)**
+- 🔭 I’m currently working as a freelancer at [*freelancer.com*](freelancer.com/u/DanielZe) and [*cgtrader.com*](https://www.cgtrader.com/makramboukaiz)
 
-- 👯 I’m looking to collaborate on **a game project (unity).**
-
-- 🌱 I’m currently learning **C language**
+- 👯 I’m studying at [1337](https://1337.ma/en/) *42 network*
 
 - 👨‍💻 3D portfolio [artstation.com/makramboukaiz](artstation.com/makramboukaiz)
 
@@ -14,10 +12,13 @@
 
 - 📫 How to reach me **makram@infiniumart.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Socials:</h3>
 <p align="left">
+  <a href="https://www.freelancer.com/u/DanielZe" target="blank"><img align="center" src="https://www.f-cdn.com/assets/main/en/assets/app-icons/icon-512x512.png" alt="makram(artstation.com)" height="48" width="48" /></a>
 <a href="https://instagram.com/makram.fbx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="makram.fbx" height="30" width="40" /></a>
 <a href="https://www.behance.net/makramboukaiz1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="makramboukaiz1" height="30" width="40" /></a>
+ <a href="https://www.artstation.com/makramboukaiz" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/27_Artstation_logo_logos-512.png" alt="freelancer" height="30" width="30" /></a>
+ 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
