@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on **42 cursus.**
+- 🔭 I’m currently strudying at **1337 (42 net)**
 
 - 👯 I’m looking to collaborate on **a game project (unity).**
 
