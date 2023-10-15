@@ -1,4 +1,5 @@
-<h3 align="center"><img src="https://github.com/BoukaizMakram/BoukaizMakram/blob/main/Comp%201%20(1).gif"></h3>
+### Hi there 👋
+
 ![Lines-of-codes's GitHub stats](https://github-readme-stats.vercel.app/api?username=BoukaizMakram&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoukaizMakram&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
