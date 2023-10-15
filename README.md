@@ -19,9 +19,9 @@
 
 - 📚 **Education**: I am a student at [1337](https://1337.ma/en/), a member of the esteemed 42 network.
 
-- 🖼️ **3D Portfolio**: You can explore my 3D work on my [ArtStation portfolio](https://www.artstation.com/makramboukaiz).
-
 - 🎥 **Video Editing Portfolio**: To view my video editing projects, visit my [Behance portfolio](https://www.behance.net/makramboukaiz1).
+
+- 🖼️ **3D Portfolio**: You can explore my 3D work on my [ArtStation portfolio](https://www.artstation.com/makramboukaiz).
 
 - ✉️ **Contact**: Feel free to get in touch with me at **makramboukaiz@gmail.com**.
 
