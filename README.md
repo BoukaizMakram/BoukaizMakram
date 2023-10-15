@@ -33,6 +33,9 @@
   <a href="https://www.artstation.com/makramboukaiz" target="blank">
     <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/27_Artstation_logo_logos-512.png" alt="ArtStation" height="30" width="30" />
   </a>
+  <a href="https://www.linkedin.com/in/boukaiz-makram/" target="blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="freelancer" height="48" width="48" />
+  </a>
 </p>
 
 ### Languages and Tools
