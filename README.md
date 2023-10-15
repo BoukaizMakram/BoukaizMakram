@@ -43,7 +43,7 @@
 
 <p align="left">
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1200px-Blender_logo_no_text.svg.png" alt="Blender" width="40" height="40"/>
+    <img src="https://www.wittystore.com/image/cache/data/brands_logos/blender-logo-800x800.png" alt="Blender" width="40" height="40"/>
   </a>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
