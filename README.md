@@ -29,16 +29,16 @@
 
 <p align="left">
   <a href="https://www.freelancer.com/u/DanielZe" target="blank">
-    <img src="https://www.f-cdn.com/assets/main/en/assets/app-icons/icon-512x512.png" alt="freelancer" height="48" width="48" />
+    <img src="https://www.f-cdn.com/assets/main/en/assets/app-icons/icon-512x512.png" alt="freelancer" height="30" width="30" />
   </a>
   <a href="https://www.behance.net/makramboukaiz1" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance" height="30" width="30" />
   </a>
   <a href="https://www.artstation.com/makramboukaiz" target="blank">
     <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/27_Artstation_logo_logos-512.png" alt="ArtStation" height="30" width="30" />
   </a>
   <a href="https://www.linkedin.com/in/boukaiz-makram/" target="blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="freelancer" height="48" width="48" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="freelancer" height="30" width="30" />
   </a>
 </p>
 
