@@ -1,8 +1,18 @@
 
-![Lines-of-codes's GitHub stats](https://github.com/BoukaizMakram/BoukaizMakram/blob/main/Comp%201%20(1).gif)
+<div align="center">
+  <img src="https://github.com/BoukaizMakram/BoukaizMakram/blob/main/Comp%201%20(1).gif" alt="About-gif">
+</div>
 
-![Lines-of-codes's GitHub stats](https://github-readme-stats.vercel.app/api?username=BoukaizMakram&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoukaizMakram&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BoukaizMakram&show_icons=true" alt="Lines-of-codes's GitHub stats">
+</div>
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoukaizMakram&layout=compact" alt="Top Langs">
+  </a>
+</div>
+
 
 
 - 🔭 I’m currently working as a freelancer at [*freelancer.com*](freelancer.com/u/DanielZe) and [*cgtrader.com*](https://www.cgtrader.com/makramboukaiz)
