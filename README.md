@@ -6,8 +6,6 @@
   <div style="display: flex; justify-content: center;">
     <div>
       <img src="https://github-readme-stats.vercel.app/api?username=BoukaizMakram&show_icons=true" alt="GitHub Stats">
-    </div>
-    <div>
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoukaizMakram&layout=compact" alt="Top Languages">
       </a>
