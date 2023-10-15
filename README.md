@@ -1,5 +1,5 @@
 
-![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://github.com/BoukaizMakram/BoukaizMakram/blob/main/Comp%201%20(1).gif)
+![Lines-of-codes's GitHub stats](https://github.com/BoukaizMakram/BoukaizMakram/blob/main/Comp%201%20(1).gif)
 
 ![Lines-of-codes's GitHub stats](https://github-readme-stats.vercel.app/api?username=BoukaizMakram&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoukaizMakram&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
