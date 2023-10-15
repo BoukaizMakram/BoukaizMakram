@@ -15,11 +15,15 @@
 
 ### About Me
 
-- 🔭 I'm currently working as a freelancer at [freelancer.com](https://www.freelancer.com/u/DanielZe) and [cgtrader.com](https://www.cgtrader.com/makramboukaiz).
-- 👯 I'm studying at [1337](https://1337.ma/en/), part of the 42 network.
-- 👨‍💻 3D portfolio: [artstation.com/makramboukaiz](https://www.artstation.com/makramboukaiz).
-- 👨‍💻 Video editing portfolio: [Behance.com/makramboukaiz1](https://www.behance.net/makramboukaiz1).
-- 📫 You can reach me at **makramboukaiz@gmail.com**.
+- 💼 **Freelance Work**: I'm currently engaged in freelance projects on [Freelancer.com](https://www.freelancer.com/u/DanielZe) and [CGTrader.com](https://www.cgtrader.com/makramboukaiz).
+
+- 📚 **Education**: I am a student at [1337](https://1337.ma/en/), a member of the esteemed 42 network.
+
+- 🖼️ **3D Portfolio**: You can explore my 3D work on my [ArtStation portfolio](https://www.artstation.com/makramboukaiz).
+
+- 🎥 **Video Editing Portfolio**: To view my video editing projects, visit my [Behance portfolio](https://www.behance.net/makramboukaiz1).
+
+- ✉️ **Contact**: Feel free to get in touch with me at **makramboukaiz@gmail.com**.
 
 ### Socials
 
