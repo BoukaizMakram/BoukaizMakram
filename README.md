@@ -39,8 +39,6 @@
 
 ### Languages and Tools
 
-### Languages and Tools
-
 <p align="left">
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
     <img src="https://www.wittystore.com/image/cache/data/brands_logos/blender-logo-800x800.png" alt="Blender" width="40" height="40"/>
