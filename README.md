@@ -1,17 +1,19 @@
 
 <div align="center">
-  <img src="https://github.com/BoukaizMakram/BoukaizMakram/blob/main/Comp%201%20(1).gif" alt="About-gif">
+  <img src="https://github.com/BoukaizMakram/BoukaizMakram/blob/main/Comp%201%20(1).gif" alt="About-gif" style="border-radius: 20px;">
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BoukaizMakram&show_icons=true" alt="Lines-of-codes's GitHub stats">
+<div align="center" style="display: flex; justify-content: center;">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=BoukaizMakram&show_icons=true" alt="Lines-of-codes's GitHub stats">
+  </div>
+  <div>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoukaizMakram&layout=compact" alt="Top Langs">
+    </a>
+  </div>
 </div>
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoukaizMakram&layout=compact" alt="Top Langs">
-  </a>
-</div>
 
 
 
