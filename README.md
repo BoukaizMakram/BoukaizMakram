@@ -19,7 +19,7 @@
 - 👯 I'm studying at [1337](https://1337.ma/en/), part of the 42 network.
 - 👨‍💻 3D portfolio: [artstation.com/makramboukaiz](https://www.artstation.com/makramboukaiz).
 - 👨‍💻 Video editing portfolio: [Behance.com/makramboukaiz1](https://www.behance.net/makramboukaiz1).
-- 📫 You can reach me at **makram@infiniumart.com**.
+- 📫 You can reach me at **makramboukaiz@gmail.com**.
 
 ### Socials
 
