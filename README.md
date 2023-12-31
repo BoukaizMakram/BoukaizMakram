@@ -15,7 +15,7 @@
 
 ### About Me
 
-- 💼 **Freelance Work**: I'm currently engaged in freelance projects on [Freelancer.com](https://www.freelancer.com/u/DanielZe) and [CGTrader.com](https://www.cgtrader.com/makramboukaiz).
+- 💼 **Freelance Work**: I'm currently engaged in freelance projects on [Freelancer.com](https://www.freelancer.com/u/MakramB).
 
 - 📚 **Education**: I am a student at [1337](https://1337.ma/en/), a member of the esteemed 42 network.
 
